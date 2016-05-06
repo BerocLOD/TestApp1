@@ -1,0 +1,18 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_1" y="42.666666" x="133.5" stroke-width="0" stroke="#000" fill="#000000">Undertakers Anonymous</text>
+  <path id="svg_3" d="m277.5,100.666666c0,0 78,-35 78,-35c0,0 58,6 58,6c0,0 -14,43 -14,43c0,0 -212,150 -212,150c0,0 -42,-26 -42,-26c0,0 132,-138 132,-138z" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path id="svg_4" d="m146.5,245.666666c0,0 37,25 37,25c0,0 -1,40 -1,40c0,0 -36,-20 -36,-20c0,0 0,-45 0,-45z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path id="svg_5" d="m191.5,268.66667c0,0 -2,36 -2,36l206,-134c2,-17 6,-53 6,-53l-210,151z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <path id="svg_6" d="m399.5,158.666666c0,0 6,-46 6,-46c0,0 9,-30 9,-30c0,0 -3,42 -3,42c0,0 -12,34 -12,34z" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+ </g>
+</svg>
